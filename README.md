@@ -1,6 +1,6 @@
 <div align="center">
 
-# Betterly
+# Ginkly
 
 ### A premium habit tracker and private journal for iOS and Android.
 
@@ -17,7 +17,7 @@
 
 ## Overview
 
-Betterly turns daily introspection into a frictionless ritual. Built around two pillars — habit tracking and journaling — it surfaces personal correlations between mood, sleep, activities and habits, all while keeping your data local-first and end-to-end protected.
+Ginkly turns daily introspection into a frictionless ritual. Built around two pillars — habit tracking and journaling — it surfaces personal correlations between mood, sleep, activities and habits, all while keeping your data local-first and end-to-end protected.
 
 The product target is a **premium, native-feeling experience**: tight typography, careful motion, haptic-rich interactions, and a UI that respects the user's attention.
 
@@ -37,7 +37,7 @@ The product target is a **premium, native-feeling experience**: tight typography
 
 ## Themes
 
-Betterly ships with four hand-crafted themes built on Material 3 with a custom semantic palette. Typography uses **Geist Sans** with tight negative letter-spacing — the same restraint Linear, Vercel and Notion rely on.
+Ginkly ships with four hand-crafted themes built on Material 3 with a custom semantic palette. Typography uses **Geist Sans** with tight negative letter-spacing — the same restraint Linear, Vercel and Notion rely on.
 
 <!-- TODO: replace with theme previews once screens exist. -->
 
