@@ -4,6 +4,8 @@
 
 ### A premium habit tracker and private journal for iOS and Android.
 
+[Aperçu de l'app et waiting list ici](https://www.ginkly.app)
+
 <!-- TODO: when the V1 ships, add badges here. Examples:
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-1F1B16)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-1F1B16)
